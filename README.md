@@ -1,2 +1,2 @@
-# Repositório do Desafio Git/GitHub
+# Primeiro Repositório Git/GitHub via SSH
 Bootcamp - Geração Tech Unimed-BH | Fullstack
